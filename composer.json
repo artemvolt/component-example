@@ -6,7 +6,8 @@
         }
     ],
     "require": {
-        "psr/http-client": "*",
-        "psr/log": "*"
+        "psr/http-client": "^1.0",
+        "psr/log": "*",
+        "psr/http-factory": "^1.1"
     }
 }
