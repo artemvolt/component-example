@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace common\modules\Customer\infrastructure\components\Tbank;
+namespace common\infrastructure\components\Tbank;
 
 use DateTimeImmutable;
 
