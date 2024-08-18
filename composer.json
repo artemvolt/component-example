@@ -1,0 +1,12 @@
+{
+    "name": "component/example",
+    "authors": [
+        {
+            "name": "Artem"
+        }
+    ],
+    "require": {
+        "psr/http-client": "*",
+        "psr/log": "*"
+    }
+}
